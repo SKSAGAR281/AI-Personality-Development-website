@@ -1,8 +1,8 @@
-🧠 AI Personality Development Website
+🧠 AI Personality Development Website ( MindDev AI )
 
 An innovative web application that leverages Artificial Intelligence to guide users in developing essential personality traits like public speaking, body language, and confidence building. This project is ideal for students, professionals, and anyone aiming to elevate their communication and personal branding skills.
 
-🔗 Live Site: AI Personality Development
+🔗 Live Site: AI Personality Development (https://velvety-creponne-66b62a.netlify.app/)
 
 🌟 Key Features
 🗣️ Public Speaking Coach
@@ -92,6 +92,5 @@ This project is licensed under the MIT License.
 
 🙋‍♂️ Author
 SK Sagar
-🚀 AI Developer | Front-End Enthusiast
-📬 Connect on LinkedIn (Replace with your actual link)
+🚀 AI Developer 
 
