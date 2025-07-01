@@ -80,8 +80,10 @@ Multilingual support with regional personalization
 
 🙌 **Acknowledgments**
 
-OpenAI API for GPT capabilities
-Netlify for free hosting
+OpenAI API for GPT capabilities 
+
+Netlify for free 
+
 Inspired by the need for accessible AI-driven soft skill development
 
 📜 **License**
