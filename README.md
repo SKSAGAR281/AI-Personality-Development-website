@@ -42,20 +42,10 @@ AI-Personality-Development/
 │   └── icons/
 ├── README.md
 🎯 How It Works
-Visit the live site.
-
-Scroll through the sections covering various aspects of personality development.
-
-Use interactive elements like speech suggestions and AI coaching prompts.
-
-Apply daily practice and observe improvement over time.
-
-📸 Screenshots
-🔹 Home Page
-
-🔹 Features Section
-
-🔹 AI Speaking Tips
+It will help to develop personality .
+First it will take test then generate report.
+It will customied plan for your refernce.
+It will provide chatbot for help.
 
 📌 Future Enhancements
 🎤 Real-time voice feedback using Web Speech API
