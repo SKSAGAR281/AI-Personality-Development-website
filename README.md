@@ -4,10 +4,10 @@ An AI-powered platform designed to help individuals enhance their soft skills, b
 
 🌐 **Live Demo**: [velvety-creponne-66b62a.netlify.app](https://velvety-creponne-66b62a.netlify.app)
 
-## 🔍 Problem
+## 🔍 **Problem**
 Many students and job seekers in India struggle with communication skills, confidence, and personality development. Traditional coaching is often expensive and inaccessible, especially in rural and tier-2/3 cities.
 
-## 💡 Solution
+## 💡** Solution**
 
 A web-based AI personality coach that simulates real-world interactions, provides feedback on responses, and empowers users to become confident speakers and professionals — all through an accessible browser-based tool.
 
@@ -19,7 +19,7 @@ A web-based AI personality coach that simulates real-world interactions, provide
 
 ---
 
-## 🧠 AI Features (Planned or Optional Enhancements)
+## 🧠** AI Features (Planned or Optional Enhancements)**
 
 - GPT-based chatbot to simulate interviews and life coaching  
 - Sentiment analysis to detect user tone and emotion  
@@ -29,7 +29,7 @@ A web-based AI personality coach that simulates real-world interactions, provide
 
 ---
 
-## 📦 How to Run Locally
+## 📦 **How to Run Locally**
 
 ```bash
 git clone https://github.com/SKSAGAR281/AI-Personality-Development-website.git
@@ -42,22 +42,26 @@ pip install -r requirements.txt
 flask run
 
 ```
-📈 Impact Potential
+📈 **Impact Potential**
+
 Helps thousands of students, graduates, and professionals improve communication skills.
 Breaks barriers of expensive coaching.
 Can be localized for multiple languages to reach broader audiences.
 Encourages AI for social and educational empowerment.
 
-🧩 Future Scope
+🧩 **Future Scope**
+
 Voice emotion analysis and body language tracking
 AI-based progress reports and learning path suggestions
 Integration with LinkedIn or job portals for user profiling
 Multilingual support with regional personalization
 
-🙌 Acknowledgments
+🙌 **Acknowledgments**
+
 OpenAI API for GPT capabilities
 Netlify for free hosting
 Inspired by the need for accessible AI-driven soft skill development
 
-📜 License
+📜 **License**
+
 This project is licensed under the MIT License.
